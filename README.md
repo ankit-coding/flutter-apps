@@ -1,6 +1,6 @@
 # capchat
 
-CapChat  ( Capital-A ) 
+CapChat 
 
 ## Getting Started
 
